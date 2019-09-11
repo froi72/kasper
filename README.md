@@ -1,5 +1,4 @@
 # kasper
-Pet cat
 ### Keybase proof
 
 I hereby claim:
