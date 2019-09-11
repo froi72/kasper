@@ -1,4 +1,3 @@
-# kasper
 ### Keybase proof
 
 I hereby claim:
